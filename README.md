@@ -1,6 +1,6 @@
-# React-Burger
+# Rolling Dice
 
-This application allows the users to build their own burger by adding the ingredient, we use store all the ingredients data to the firebase. The application is still optimizing the user interface and the user experience, we make sure we are providing the best options to all the users. 
+This application is built by vanilla Javascript, the user can easily hands on this game. 
 
 ## Getting Started
 
@@ -8,40 +8,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-If you would like to run the project locally, please make sure you clone the repo to your local folder and run the npm install
+There is no prerequisites for the users to run this application
 
-```
-npm install
-```
 
-If you would like to run it online, here is the link: https://arcane-cove-42625.herokuapp.com/
+If you would like to run the project locally, please make sure you clone the repo to your local storage.
+
+Or
+
+If you would like to run it online, here is the link: https://tomlam0828.github.io/Dice/
 
 ### Installing
 
-```
-npm install
-```
+No npm install necessary
 
-Npm install should be installing all the packages that the project needed, if the project is still not running, please following: 
-
-```
-npm install react
-```
-
-```
-npm install react-redux
-```
-
-```
-npm install redux
-```
-
-```
-npm install react-router-dom
-```
-
-
-Just make sure you have installed the latest React JS version
 
 ## Running the tests
 
@@ -49,4 +28,4 @@ This project will use terminal/bash to run locally, it usually runs in Localhost
 
 ## Deployment
 
-The project is deployed by Heroku.
+The project is deployed by Github.
